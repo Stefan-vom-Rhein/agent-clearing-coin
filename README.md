@@ -2,14 +2,14 @@
 
 Symmetrische Clearing-Währung nach Keynes' Bancor-Prinzip, als Smart Contract für internationalen B2B-Handel und die Machine-to-Machine-Ökonomie (KI-Agenten).
 
-Kernidee: Kein Mint. Geld entsteht als gegenseitiger Kredit, die Summe aller Salden ist immer 0. Gebühren treffen **Überschüsse und Defizite** gleichermaßen, damit sich keine Liquiditätsberge in einzelnen Bilanzen aufstauen.
+Kernidee: Es werden keine Coins im Voraus ausgegeben. Geld entsteht erst, wenn ein Teilnehmer bezahlt und dabei ins Minus geht, ähnlich wie bei einem Dispokredit. Dem Plus des einen steht immer das Minus eines anderen gegenüber, deshalb ist die Summe aller Kontostände stets 0. Gebühren treffen **Überschüsse und Defizite** gleichermaßen, damit sich keine Liquiditätsberge in einzelnen Bilanzen aufstauen.
 
 ## Regelwerk (Kurzfassung)
 
 | # | Regel |
 |---|-------|
 | R1 | Nur zugelassene Teilnehmer (KYB), Agenten nur per Mandat |
-| R2 | Kein Mint, Summe aller Salden = 0 |
+| R2 | Keine Coins im Voraus, Geld entsteht durch Bezahlen auf Kredit, Summe aller Kontostände = 0 |
 | R3 | Kreditlinie = max(Basisquote, 25 % des Umsatzes), gedeckelt |
 | R4 | Gebühr auf Guthaben **und** Schulden: 1 % p.a. über 25 %, 2 % p.a. über 50 % der Quote |
 | R5 | Überschuss-Deckel bei 200 % der Quote |
