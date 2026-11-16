@@ -1,0 +1,8 @@
+{
+  "name": "agent-clearing-coin",
+  "version": "0.1.0",
+  "description": "Symmetrische Clearing-Währung (Bancor-Prinzip) für B2B-Handel und KI-Agenten",
+  "license": "MIT",
+  "scripts": { "test": "node test.js" },
+  "devDependencies": { "solc": "0.8.24", "ganache": "^7.9.2", "ethers": "^6.13.0" }
+}
