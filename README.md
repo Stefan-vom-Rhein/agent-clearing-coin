@@ -38,3 +38,7 @@ npm test
 - ADMIN- und GOVERNOR-Rollen sollten in Produktion Multisig- oder DAO-Verträge sein.
 
 Status: Prototyp, nicht auditiert.
+
+---
+
+*Vibe-coded with Claude*
